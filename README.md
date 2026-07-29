@@ -10,10 +10,49 @@ I build small, practical projects across web and scripting work. Most of my publ
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,git,github,vscode" alt="Tech stack icons" />
 </p>
 
-- Frontend and web apps: TypeScript, JavaScript
-- Scripting and utilities: Python
-- Systems and problem-solving: C++
-- Tools I keep using: Git, GitHub, and VS Code
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" alt="Languages icons" />
+</p>
+
+- TypeScript
+- JavaScript
+- Python
+- C++
+- Java
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,vite,react,nextjs" alt="Frontend icons" />
+</p>
+
+- TypeScript and JavaScript
+- HTML and CSS
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java" alt="Backend icons" />
+</p>
+
+- Python
+- JavaScript tooling and scripts
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres" alt="Database icons" />
+</p>
+
+- Learning relational database basics
+- Working toward stronger data persistence habits
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" alt="Tools icons" />
+</p>
+
+- Git
+- GitHub
+- VS Code
 
 ## What I'm Learning
 - Building cleaner TypeScript and JavaScript apps.
@@ -22,10 +61,10 @@ I build small, practical projects across web and scripting work. Most of my publ
 - Organizing projects better across GitHub repos.
 
 ## Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreenair-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreenair-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sreenair-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sreenair-1&layout=compact&theme=tokyonight)
+
 
 ## 🌐 Let’s Connect
 <p>
