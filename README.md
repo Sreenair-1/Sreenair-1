@@ -12,44 +12,25 @@ I build small, practical projects across web and scripting work. Most of my publ
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" alt="Languages icons" />
 </p>
 
-- TypeScript
-- JavaScript
-- Python
-- C++
-- Java
-
 ### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,vite,react,nextjs" alt="Frontend icons" />
 </p>
-
-- TypeScript and JavaScript
-- HTML and CSS
 
 ### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=python,nodejs,java" alt="Backend icons" />
 </p>
 
-- Python
-- JavaScript tooling and scripts
-
 ### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres" alt="Database icons" />
 </p>
 
-- Learning relational database basics
-- Working toward stronger data persistence habits
-
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" alt="Tools icons" />
 </p>
-
-- Git
-- GitHub
-- VS Code
 
 ## What I'm Learning
 - Building cleaner TypeScript and JavaScript apps.
