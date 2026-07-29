@@ -2,32 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Sreenair-1&fontAlign=50&fontAlignY=38&desc=Crafting%20clean%20code%20and%20beautiful%20experiences&descAlignY=56" alt="header"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Universe+%F0%9F%9A%80;Building+modern+ideas+into+real+products+%E2%9C%A8;Always+learning.+Always+shipping." alt="Typing intro" />
-</p>
+## About Me
+I build small, practical projects across web and scripting work. Most of my public repos are in TypeScript, JavaScript, Python, and C++.
 
-## ✨ About Me
-- 💡 Passionate about building elegant, meaningful software.
-- 🧠 Constantly exploring new technologies and better patterns.
-- 🛠️ Focused on writing maintainable code with polished UX.
-- 🤝 Open to collaboration on impactful projects.
-
-## ⚡ Tech Vibe
+## Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Code-Clean-blueviolet?style=for-the-badge" alt="Clean Code"/>
-  <img src="https://img.shields.io/badge/Build-Scalable-111827?style=for-the-badge" alt="Scalable Build"/>
-  <img src="https://img.shields.io/badge/Mindset-Ship%20Fast-06B6D4?style=for-the-badge" alt="Ship Fast"/>
-  <img src="https://img.shields.io/badge/Style-Exquisite-F43F5E?style=for-the-badge" alt="Exquisite Style"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,git,github,vscode" alt="Tech stack icons" />
 </p>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sreenair-1&show_icons=true&theme=tokyonight)
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=Sreenair-1&theme=tokyonight)
-  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sreenair-1&layout=compact&theme=tokyonight)
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sreenair-1&theme=tokyo-night)](https://github.com/Sreenair-1)
+- Frontend and web apps: TypeScript, JavaScript
+- Scripting and utilities: Python
+- Systems and problem-solving: C++
+- Tools I keep using: Git, GitHub, and VS Code
+
+## What I'm Learning
+- Building cleaner TypeScript and JavaScript apps.
+- Strengthening Python fundamentals through small utility projects.
+- Practicing C++ through focused problem-solving work.
+- Organizing projects better across GitHub repos.
 
 ## 🌐 Let’s Connect
 <p>
