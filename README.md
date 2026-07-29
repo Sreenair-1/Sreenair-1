@@ -63,7 +63,3 @@ I build small, practical projects across web and scripting work. Most of my publ
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreenair-1&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 </p>
-
-
-
-<p align="center"><i>Thanks for stopping by — the best is yet to be built.</i></p>
