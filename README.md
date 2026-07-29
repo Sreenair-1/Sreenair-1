@@ -6,9 +6,6 @@
 I build small, practical projects across web and scripting work. Most of my public repos are in TypeScript, JavaScript, Python, and C++.
 
 ## Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,git,github,vscode" alt="Tech stack icons" />
-</p>
 
 ### Languages
 <p>
