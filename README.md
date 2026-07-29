@@ -21,6 +21,12 @@ I build small, practical projects across web and scripting work. Most of my publ
 - Practicing C++ through focused problem-solving work.
 - Organizing projects better across GitHub repos.
 
+## Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreenair-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreenair-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
+
 ## 🌐 Let’s Connect
 <p>
   <a href="https://github.com/Sreenair-1"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
