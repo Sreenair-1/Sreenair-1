@@ -21,15 +21,13 @@
 </p>
 
 ## 📊 GitHub Stats
-<p>
-  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sreenair-1&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sreenair-1&show_icons=true&theme=tokyonight)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Sreenair-1&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sreenair-1&theme=tokyonight)
   
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sreenair-1&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sreenair-1&layout=compact&theme=tokyonight)
   
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sreenair-1&theme=tokyo-night)](https://github.com/Sreenair-1)
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sreenair-1&theme=tokyo-night)](https://github.com/Sreenair-1)
 
 ## 🌐 Let’s Connect
 <p>
